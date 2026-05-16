@@ -1,0 +1,11 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+		3D0000001 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvoiceApp.swift; sourceTree = "<group>"; };
+	};
+	rootObject = 3D0000002 = {isa = PBXProject; attributes = {}; buildConfigurationList = 3D0000003 = (isa = XCConfigurationList; buildConfigurations = (3D0000004 = {isa = XCBuildConfiguration; buildSettings = {}; name = Debug; }); defaultConfigurationIsVisible = 0; defaultConfigurationName = Debug; }; targets = ();
+}
