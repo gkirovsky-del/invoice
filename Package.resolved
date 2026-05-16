@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pdfkit-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PDFKit/PDFKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "abc123"
+      }
+    }
+  ],
+  "version" : 2
+}
